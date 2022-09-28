@@ -37,6 +37,8 @@ section#login{
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.482);
+
+    transition: width .3s, height .4s;
 }
 
 section#login > div#imagem{
